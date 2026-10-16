@@ -3,7 +3,7 @@ package kz.kaznu.aiym;
 public class MainApp {
     public static void main(String[] args) {
         Cat cat = new Cat("Барсик", 5, 50);
-        Dog dog = new Dog("Шарик", 8, 3, 100);
+        Dog dog = new Dog("Мухтар", 8, 3, 100);
         Horse horse = new Horse("Гром", 12, 2, 200);
 
         cat.info();
